@@ -1,4 +1,4 @@
-### Hi there, I'm Sahil Pulikal  👋
+# Hi there, I'm Sahil Pulikal  👋
 
 ## I'm an IT Engineer
 
