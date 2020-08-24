@@ -1,6 +1,6 @@
 ### Hi there, I'm Sahil Pulikal  👋
 
-## I'm an Information Technology Engineer
+## I'm an IT Engineer
 
 ### Connect with me:
 
