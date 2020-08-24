@@ -30,6 +30,11 @@
 
 <br />
 
+
+### Spotify Playing 🎧
+[![Spotify](https://spotify-now-playing.sahilpulikal.vercel.app/api/spotify)](https://open.spotify.com/user/315tckqo4ogfq44u7oz3yfozpeqm)
+
+
 <details>
   <summary>:zap: Github Stats</summary>
 
