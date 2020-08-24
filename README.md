@@ -30,6 +30,13 @@
 
 <br />
 
+<details>
+  <summary>:zap: Github Stats</summary>
+
+  <img align="left" alt="Sahil Pulikal's Github Stats" src="https://github-readme-stats.sahilpulikal.vercel.app/api?username=SahilPulikal&show_icons=true&hide_border=true" />
+
+</details>
+
 
 [website]: http://sahilpulikal.blogspot.com/
 [twitter]: https://twitter.com/sahilpulikal
