@@ -10,12 +10,7 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-
 <br />
-
-<br />
-
 
 ### Languages and Tools:
 
@@ -31,10 +26,13 @@
 
 <br />
 
-### Spotify Playing 🎧
+<br />
+
+
+### 🎧  Spotify Playing
 [![Spotify](https://spotify-now-playing.sahilpulikal.vercel.app/api/spotify)](https://open.spotify.com/user/315tckqo4ogfq44u7oz3yfozpeqm)
 
-### :zap: Github Stats
+### :zap: Github Stats 
 
   <img align="left" alt="Sahil Pulikal's Github Stats" src="https://github-readme-stats.sahilpulikal.vercel.app/api?username=SahilPulikal&show_icons=true&hide_border=true" />
 
