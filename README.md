@@ -2,6 +2,12 @@
 
 ## I'm an IT Engineer
 
+
+[![Visits Badge](https://badges.pufler.dev/visits/SahilPulikal/SahilPulikal)](https://github.com/SahilPulikal)
+[![Commits Badge](https://badges.pufler.dev/commits/all/SahilPulikal)](https://github.com/SahilPulikal)
+[![Years Badge](https://badges.pufler.dev/years/SahilPulikal)](https://github.com/SahilPulikal)
+[![Repos Badge](https://badges.pufler.dev/repos/SahilPulikal)](https://github.com/SahilPulikal)
+
 ### Connect with me:
 
 [<img align="left" alt="Blog" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
