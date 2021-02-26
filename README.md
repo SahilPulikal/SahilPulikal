@@ -48,7 +48,7 @@
 
 
 
-[website]: http://sahilpulikal.blogspot.com/
+[website]: https://sahilpulikal.github.io/
 [twitter]: https://twitter.com/sahilpulikal
 [youtube]: https://www.youtube.com/channel/UCMpZnXAA2mWDP0EJOOhJhkA
 [instagram]: https://instagram.com/sahilpulikal
